@@ -1,0 +1,2 @@
+# data-analysis
+Here are some of my projects in Jupiter Notebook format that allow you to review my skills. Tools: Python, Pandas, SQL queries, Excel, Tableau Techniques: A/B tests, calculating key business metrics and evaluating significance, creating dashboards with Tableau and other tools, identifying patterns and anomalies using the basics of machine learning. Technologies: SQL queries; Python and its libraries (Pandas, NumPy, Matplotlib, Seaborn, Plotly).
